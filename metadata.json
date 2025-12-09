@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Smart Fridge Chef",
+  "description": "AI-powered culinary assistant that identifies ingredients from your fridge photos and suggests recipes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
